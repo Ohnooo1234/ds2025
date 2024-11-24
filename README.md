@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1
-* Student ID: Not-Vietnamese
-* Student Group ID: Not-for-now
+* Student Name: Đào Ngọc Tùng
+* Student ID: BA12-185
+* Student Group ID: 
