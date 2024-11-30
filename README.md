@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Đào Ngọc Tùng
+* Student Name: Dao Ngoc Tung
 * Student ID: BA12-185
-* Student Group ID: 
+* Student Group ID: Not-for-now
